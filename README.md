@@ -32,6 +32,8 @@ A beginner-friendly collection of hands-on Python lessons covering **data types*
 
 [🌐 GitHub Profile](https://github.com/sadra-hatami)
 •
+[📘 نسخه فارسی](README.fa.md)
+•
 [📧 Contact](mailto:sadra.hatami.1732@gmail.com)
 
 </div>
