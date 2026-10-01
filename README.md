@@ -15,13 +15,18 @@ A beginner-friendly collection of hands-on Python lessons covering **data types*
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-[![Education](https://img.shields.io/badge/Focus-Python%20Education-4CAF50?style=for-the-badge)]()
-![Education](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=for-the-badge)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Source](https://img.shields.io/badge/Source-Stanford%20Data%20Ocean%20(SDO)-8C1515?style=for-the-badge)](https://dataocean.stanford.edu/)
-[![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://github.com/sadra-hatami)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![Data Types](https://img.shields.io/badge/Lesson%201-Data%20Types-306998?style=for-the-badge)](https://docs.python.org/3/library/stdtypes.html)
+[![Data Structures](https://img.shields.io/badge/Lesson%202-Data%20Structures-4B8BBE?style=for-the-badge)](https://docs.python.org/3/tutorial/datastructures.html)
+[![Functions](https://img.shields.io/badge/Lesson%203-Functions-FFD43B?style=for-the-badge&logo=python&logoColor=black)](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+[![Lessons](https://img.shields.io/badge/Lessons-3%20Notebooks-4A90A4?style=for-the-badge)](https://github.com/sadra-hatami/Python-Programming-Training)
+[![SDO](https://img.shields.io/badge/Source-Stanford%20Data%20Ocean-8C1515?style=for-the-badge)](https://dataocean.stanford.edu/)
+[![Stanford](https://img.shields.io/badge/Stanford-University-8C1515?style=for-the-badge)](https://www.stanford.edu/)
+[![Education](https://img.shields.io/badge/Track-Python%20Basics-orange?style=for-the-badge)](https://docs.python.org/3/tutorial/)
+[![License](https://img.shields.io/badge/License-Educational-green.svg?style=for-the-badge)](https://dataocean.stanford.edu/)
+[![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
 
 <br>
 
